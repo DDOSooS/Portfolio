@@ -56,13 +56,13 @@ export default function Data() {
             </svg>
         </h1>
         <h3 className="home--sub">
-            Full Stack Developer
+           Designer, Full Stack Developer
         </h3>        
         <p className="home--description">
-            i'm a creative developer based in morocco ,abd I'm dedicated to my work 
+          Développeur Web Full-stack construisant les sites Web et les applications Web qui mènent au succès du produit global
         </p>
         <a href="#contact"  className="button">
-            Contact me
+              Contactez moi
             <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

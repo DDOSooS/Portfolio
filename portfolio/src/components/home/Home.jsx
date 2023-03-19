@@ -10,7 +10,7 @@ const Home = () => {
             <div className="home--content grid">
                 <Social/>
                 <div className="home--img">
-
+                  
                 </div>
                  <Data/>
             </div>
